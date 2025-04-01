@@ -12,11 +12,11 @@ This project is designed to detect human presence in forest areas to aid in wild
 📂 Project Structure
 
 📦 JSK_project
- ┣ 📂 person_detected_images   # Folder to store images with detected persons
- ┣ 📜 detect_person_pipeline.py  # Main script for detection & alerting
- ┣ 📜 requirements.txt  # Python dependencies
- ┣ 📜 README.md  # Project documentation
- ┗ 📜 .gitignore  # Files to be ignored in Git
+ ┣  person_detected_images   # Folder to store images with detected persons
+ ┣  detect_person_pipeline.py  # Main script for detection & alerting
+ ┣  requirements.txt  # Python dependencies
+ ┣  README.md  # Project documentation
+ ┗ .gitignore  # Files to be ignored in Git
 
  📊 How It Works
 
